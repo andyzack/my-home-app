@@ -1,7 +1,13 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
     <MyHome msg="Welcome to MyHome App using Vue.js and Tailwind"/>
+    <div class="px-8 py-12 text-left">
+      <img class="mt-6 rounded-lg shadow-xl" alt="My Home" src="https://workhouseadvertising.com.au/test-data/images/1.jpg">
+      <h1 class="mt-6 text-2xl font-bold text-blue-800 leading-tight">The Eastwood</h1>
+      <p class="">Northbridge, W.A.</p>
+      <p class="">From $209,900</p>
+    </div>
+    
   </div>
 </template>
 
@@ -18,11 +24,6 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+
 }
 </style>
