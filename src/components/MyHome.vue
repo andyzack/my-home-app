@@ -1,7 +1,7 @@
 import '@/assets/css/tailwind.css'
 
 <template>
-  <div class="text-4xl font-bold text-center bg-purple-600 text-white sm:bg-green-600 md:bg-blue-600 ms:text:yellow lg:bg-red-600 xl:bg-orange-600 px-8 py-12">
+  <div class="text-5xl-2 font-bold text-center text-white bg-primary-gradient pt-32 pb-16 py-12 -rotate-45">
     <h1>{{ msg }}</h1>
   </div>
 </template>
