@@ -1,5 +1,6 @@
 {
-  "name": "my-home-app-ui",
+  "name": "my-home-app",
+  "homepage": "http://andyzack.github.io/my-home-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
