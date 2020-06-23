@@ -1,7 +1,10 @@
 <template>
   <div id="app">
-    <Header title="Packages"/>
 
+    <!-- HEADER COMPONENT -->
+    <Header title="Packages" />
+
+    <!-- BODY CONTAINER -->
     <div class="container">
       <div class="px-2 py-4 mb-10">
 
@@ -10,7 +13,7 @@
 
         <!-- SearchResults -->
         <div class="flex flex-wrap justify-between items-center mb-5">
-          <div class="text-secondary-color font-bold">10 Packages</div>
+          <div class="text-secondary-color font-bold">{{filteredHomes.length}} Packages</div>
           <div>
             <input type="text" class="bg-near-gray-100 focus:outline-none opacity-50 focus:shadow-outline border border-gray-300 rounded-full py-2 px-4 block w-full appearance-none leading-normal near-gray-700" v-model="search" placeholder="Search">
           </div>
@@ -19,51 +22,20 @@
         <!-- SEARCHAVAILABILITY //START -->
         <div class="flex flex-wrap -mx-4">
 
-          <div class="w-full sm:w-1/2 lg:w-1/3 px-4 py-4" v-for="home in filteredHomes" :key="home.id">
-            <!-- CARDS START -->
-            <div class="bg-white h-full rounded overflow-hidden shadow-lg relative">
-              <div v-if="home.special" class="wkh-banner wkh-specials bg-secondary-gradient absolute left-0 top-0 px-6 py-3 text-white font-bold">Special Package</div>
-              <div v-if="home.featured" class="wkh-banner wkh-featured bg-primary-gradient absolute left-0 top-0 px-6 py-3 text-white font-bold">Featured</div>
-              <div class="wkh-favourite absolute right-0 top-0 text-secondary-color text-3xl mr-4">&lt;3</div>
-              <img class="w-full" :src="home.image" :alt="home.name" />
-              <div class="px-6 py-4">
-                <div class="font-extrabold text-2xl text-primary-color leading-tight mb-2">{{home.name}}</div>
-                <p class="text-gray-700 text-base">
-                  {{home.address}}
-                </p>
-                <p class="text-gray-700 text-base font-bold">
-                  From {{home.price}}*
-                </p>
-              </div>
-              <div class="px-6 pb-4">
-                <span class="inline-block px-3 py-1 text-sm font-semibold text-gray-700 text-center mr-2">
-                  <i class="block text-secondary-color font-normal">#bed</i>
-                  {{home.bedrooms}}
-                </span>
-                <span class="inline-block px-3 py-1 text-sm font-semibold text-gray-700 text-center mr-2">
-                  <i class="block text-secondary-color font-normal">#bath</i>
-                  {{home.bathrooms}}
-                </span>
-                <span class="inline-block px-3 py-1 text-sm font-semibold text-gray-700 text-center nr-2">
-                  <i class="block text-secondary-color font-normal">#garage</i>
-                  {{home.garages}}
-                </span>
-                <span class="inline-block px-3 py-1 text-sm font-semibold text-gray-700 text-center">
-                  <i class="block text-secondary-color font-normal">#fromtage</i>
-                  {{home.frontage}}
-                </span>
-              </div>
-              <div class="px-6 pb-8">
-                <a href="#" class="inline-block px-8 py-3 rounded-full border-2 border-solid border-primary-color bg-primary-color text-white tracking-wider font-semibold text-sm mr-2">
-                  Enquire
-                </a>
-                <a href="#" class="inline-block px-8 py-3 rounded-full border-2 border-solid border-primary-color bg-white-color text-primary-color tracking-wider font-semibold text-sm">
-                  Floorplan
-                </a>
-              </div>
-            </div>
-            <!-- CARDS END -->
-          </div>
+          <!-- CARDS COMPONENT -->
+          <Cards v-for="home in filteredHomes"
+            :key="home.id"
+            :name="home.name"
+            :address="home.address"
+            :price="home.price"
+            :bedrooms="home.bedrooms"
+            :bathrooms="home.bathrooms"
+            :garages="home.garages"
+            :image="home.image"
+            :frontage="home.frontage"
+            :special="home.special"
+            :featured="home.featured"
+          />
         </div>
         <!-- SEARCHAVAILABILITY //END -->
 
@@ -75,11 +47,13 @@
 
 <script>
 import Header from './components/Header.vue'
+import Cards from './components/Cards.vue'
 
 export default {
   name: 'App',
   components: {
-    Header
+    Header,
+    Cards
   },
   data() {
     return {
@@ -95,7 +69,7 @@ export default {
   computed: {
     filteredHomes: function() {
       return this.homes.filter((home) => {
-        return home.name.match(this.search);
+        return home.name.toLowerCase().match(this.search.toLowerCase());
       })
     }
   }
