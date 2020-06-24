@@ -23,7 +23,7 @@
         <div class="flex flex-wrap -mx-4">
 
           <!-- CARDS COMPONENT -->
-          <Cards v-for="home in filteredHomes"
+          <Cards v-for="(home, key) in filteredHomes"
             :key="home.id"
             :name="home.name"
             :address="home.address"
@@ -35,7 +35,10 @@
             :frontage="home.frontage"
             :special="home.special"
             :featured="home.featured"
+            :xkey="key"
+            :xlength="filteredHomes.length"
           />
+          <PromoBanner v-if="filteredHomes.length < 4" title="Lorem ipsum dolor sit amet" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod corporis repudiandae nostrum. Nostrum ipsum iusto qui, perspiciatis veniam fugit dolorem libero, vitae similique, quasi a officiis quia! Alias, sed vitae!" />
         </div>
         <!-- SEARCHAVAILABILITY //END -->
 
@@ -48,12 +51,14 @@
 <script>
 import Header from './components/Header.vue'
 import Cards from './components/Cards.vue'
+import PromoBanner from './components/PromoBanner.vue'
 
 export default {
   name: 'App',
   components: {
     Header,
-    Cards
+    Cards,
+    PromoBanner
   },
   data() {
     return {

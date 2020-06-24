@@ -12,3 +12,29 @@
     background: linear-gradient(135deg, #00A7E1 0%, #6DC9B1 100%);
   }
 }
+
+.fill-secondary-color {
+  fill: #00A7E1;
+}
+
+.fill-secondary-color.active {
+  fill: #1A2F5C;
+}
+
+/* Tailwind: Work in progress! */
+
+.min-h-80 {
+  min-height: 20rem;
+}
+
+.min-h-96 {
+  min-height: 24rem;
+}
+
+.min-h-112 {
+  min-height: 28rem;
+}
+
+.min-h-128 {
+  min-height: 32rem;
+}
