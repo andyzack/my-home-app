@@ -12,6 +12,11 @@ module.exports = {
         'sans-serif'
       ],
     },
+    fill: theme => (
+      {
+        'red': theme('colors.red.500'),
+      }
+    ),
     extend: {
       colors: {
         'primary-color': '#1A2F5C', /* Primary Text Color, Header Background Top Color */
@@ -33,6 +38,7 @@ module.exports = {
   },
   variants: {
     backgroundColor: ['responsive', 'hover', 'focus', 'active'],
+    fill: ['responsive', 'hover', 'focus']
   },
   plugins: [],
 }

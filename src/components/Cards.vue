@@ -17,19 +17,27 @@
       </div>
       <div class="px-6 pb-4">
         <span class="inline-block px-3 py-1 text-sm font-semibold text-gray-700 text-center mr-2">
-          <i class="block text-secondary-color font-normal"><img alt="favourite" src="../assets/icons/bed.svg" class="w-8"></i>
-          {{bedrooms}}
+          <i class="block text-secondary-color font-normal">
+            <IconBed class="fill-secondary-color w-10" />
+          </i>
+          {{bed}}
         </span>
         <span class="inline-block px-3 py-1 text-sm font-semibold text-gray-700 text-center mr-2">
-          <i class="block text-secondary-color font-normal"><img alt="favourite" src="../assets/icons/bath.svg" class="w-8"></i>
+          <i class="block text-secondary-color font-normal">
+            <IconBath class="fill-secondary-color w-10" />
+          </i>
           {{bathrooms}}
         </span>
         <span class="inline-block px-3 py-1 text-sm font-semibold text-gray-700 text-center nr-2">
-          <i class="block text-secondary-color font-normal"><img alt="favourite" src="../assets/icons/car.svg" class="w-8"></i>
+          <i class="block text-secondary-color font-normal">
+            <IconCar class="fill-secondary-color w-10" />
+          </i>
           {{garages}}
         </span>
         <span class="inline-block px-3 py-1 text-sm font-semibold text-gray-700 text-center">
-          <i class="block text-secondary-color font-normal"><img alt="favourite" src="../assets/icons/lot-width.svg" class="w-8 text-secondary-color"></i>
+          <i class="block text-secondary-color font-normal">
+            <IconLotWidth class="fill-secondary-color w-10" />
+          </i>
           {{frontage}}
         </span>
       </div>
@@ -47,8 +55,19 @@
 </template>
 
 <script>
+import IconBed from '../assets/icons/bed.svg?inline'
+import IconBath from '../assets/icons/bath.svg?inline'
+import IconCar from '../assets/icons/car.svg?inline'
+import IconLotWidth from '../assets/icons/lot-width.svg?inline'
+
 export default {
   name: 'Card',
+  components: {
+    IconBed,
+    IconBath,
+    IconCar,
+    IconLotWidth
+  },
   props: {
     name: String,
     address: String,
