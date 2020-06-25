@@ -46,12 +46,24 @@
         </span>
       </div>
       <div class="px-6 pb-8">
-        <a href="#" class="inline-block px-8 py-3 rounded-full border-2 border-solid border-primary-color hover:border-secondary-color bg-primary-color hover:bg-secondary-color text-white tracking-wider font-semibold text-sm mr-2">
-          Enquire
-        </a>
-        <a href="#" class="inline-block px-8 py-3 rounded-full border-2 border-solid border-primary-color hover:border-secondary-color bg-white-color text-primary-color hover:text-secondary-color tracking-wider font-semibold text-sm">
-          Floorplan
-        </a>
+        <ActionButton
+          label='Enquire'
+          textColor='white'
+          borderColor='primary-color'
+          backgroundColor='primary-color'
+          textColorHover='white'
+          borderColorHover='secondary-color'
+          backgroundColorHover='secondary-color'
+        />
+        <ActionButton
+          label='Floorplan'
+          textColor='primary-color'
+          borderColor='primary-color'
+          backgroundColor='white-color'
+          textColorHover='text-secondary-color'
+          borderColorHover='secondary-color'
+          backgroundColorHover='white-color'
+        />
       </div>
     </div>
     <!-- CARDS END -->
@@ -71,6 +83,7 @@ import IconFavourite from '../assets/icons/favourite.svg?inline'
 import IconFavourited from '../assets/icons/favourited.svg?inline'
 import PromoBanner1 from './PromoBanner1.vue'
 import PromoBanner2 from './PromoBanner2.vue'
+import ActionButton from './ActionButton.vue'
 
 export default {
   name: 'Card',
@@ -82,7 +95,8 @@ export default {
     IconFavourite,
     IconFavourited,
     PromoBanner1,
-    PromoBanner2
+    PromoBanner2,
+    ActionButton
   },
   props: {
     name: String,
@@ -97,7 +111,14 @@ export default {
     featured: Boolean,
     xindex: Number,
     xkey: Number,
-    xlength: Number
+    xlength: Number,
+    label: String,
+    textColor: String,
+    borderColor: String,
+    backgroundColor: String,
+    HovertextColor: String,
+    borderColorHover: String,
+    backgroundColorHover: String,
   },
   data() {
     return {
