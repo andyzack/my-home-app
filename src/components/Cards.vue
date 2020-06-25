@@ -5,7 +5,7 @@
       <div v-if="special" class="wkh-banner wkh-specials bg-secondary-gradient absolute left-0 top-0 px-6 py-3 text-white font-bold">Special Package</div>
       <div v-if="featured" class="wkh-banner wkh-featured bg-primary-gradient absolute left-0 top-0 px-6 py-3 text-white font-bold">Featured</div>
       <div class="wkh-favourite absolute right-0 top-0 m-2 text-secondary-color hover:text-primary-color text-3xl">
-        <IconFavourite fill="#00A7E1" class="fill-secondary-color w-10 h-auto" @click="myFavourite" :class="{'active': isActive}" />
+        <component v-bind:is="component" fill="#00A7E1" class="w-10 h-auto" @click="myFavourite" :class="{'active': isActive}" />
       </div>
       <img class="w-full" :src="image" :alt="name" />
       <div class="px-6 py-4">
@@ -54,7 +54,10 @@
     </div>
     <!-- CARDS END -->
   </div>
-  <PromoBanner v-else title="Lorem ipsum dolor sit amet" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod corporis repudiandae nostrum. Nostrum ipsum iusto qui, perspiciatis veniam fugit dolorem libero, vitae similique, quasi a officiis quia! Alias, sed vitae!" />
+  <div v-else class="w-full sm:w-1/2 lg:w-1/3 px-4 py-4">
+    <PromoBanner1 v-if="(((xkey+1)/5)%2)" title="Lorem ipsum dolor sit amet" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod corporis repudiandae nostrum. Nostrum ipsum iusto qui, perspiciatis veniam fugit dolorem libero, vitae similique, quasi a officiis quia! Alias, sed vitae!" />
+    <PromoBanner2 v-else title="Lorem ipsum dolor sit amet" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod corporis repudiandae nostrum. Nostrum ipsum iusto qui, perspiciatis veniam fugit dolorem libero, vitae similique, quasi a officiis quia! Alias, sed vitae!" />
+  </div>
 </template>
 
 <script>
@@ -63,8 +66,9 @@ import IconBath from '../assets/icons/bath.svg?inline'
 import IconCar from '../assets/icons/car.svg?inline'
 import IconLotWidth from '../assets/icons/lot-width.svg?inline'
 import IconFavourite from '../assets/icons/favourite.svg?inline'
-import PromoBanner from './PromoBanner.vue'
-// import IconFavourited from '../assets/icons/favourited.svg?inline'
+import IconFavourited from '../assets/icons/favourited.svg?inline'
+import PromoBanner1 from './PromoBanner1.vue'
+import PromoBanner2 from './PromoBanner2.vue'
 
 export default {
   name: 'Card',
@@ -74,7 +78,9 @@ export default {
     IconCar,
     IconLotWidth,
     IconFavourite,
-    PromoBanner
+    IconFavourited,
+    PromoBanner1,
+    PromoBanner2
   },
   props: {
     name: String,
@@ -93,13 +99,19 @@ export default {
   },
   data() {
     return {
-      isActive: false
+      isActive: false,
+      component: "IconFavourite"
     };
   },
   methods: {
     myFavourite: function() {
       this.isActive = !this.isActive
-    }
+      if (this.component === IconFavourited) {
+        this.component = IconFavourite;
+      } else {
+        this.component = IconFavourited;
+      }
+    },
   }
 }
 </script>

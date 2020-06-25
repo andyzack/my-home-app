@@ -1,6 +1,5 @@
 <template>
-  <div class="w-full sm:w-1/2 lg:w-1/3 px-4 py-4">
-    <div class="bg-secondary-gradient h-full rounded overflow-hidden shadow-lg relative px-6 py-4 flex justify-end align-baseline flex-col min-h-128">
+    <div class="bg-primary-gradient h-full rounded overflow-hidden shadow-lg relative px-6 py-4 flex justify-end align-baseline flex-col min-h-128">
       <h3 class="text-3xl text-white font-extrabold leading-none mb-3">{{ title }}</h3>
       <p class="text-base text-white">{{ description }}</p>
       <p>
@@ -9,12 +8,11 @@
       </a>
       </p>
     </div>
-  </div>
 </template>
 
 <script>
 export default {
-  name: 'PromoBanner',
+  name: 'PromoBanner1',
   props: {
     title: String,
     description: String
