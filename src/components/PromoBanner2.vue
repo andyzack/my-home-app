@@ -9,7 +9,7 @@
           borderColor='white'
           backgroundColor='white-color'
           textColorHover='text-secondary-color'
-          borderColorHover='secondary-color'
+          borderColorHover='primary-color'
           backgroundColorHover='white-color'
         />
       </p>

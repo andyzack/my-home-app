@@ -46,7 +46,10 @@
 
       </div>
     </div>
-    
+<a href="#" v-hide=true class="hidden inline-block px-8 py-3 rounded-full border-2 border-solid tracking-wider font-semibold text-sm mr-2 text-white border-primary-color bg-primary-color hover:text-white hover:border-secondary-color hover:bg-secondary-color">  </a>
+<a href="#" v-hide=true class="hidden inline-block px-8 py-3 rounded-full border-2 border-solid tracking-wider font-semibold text-sm mr-2 text-primary-color border-primary-color bg-white-color hover:text-text-secondary-color hover:border-secondary-color hover:bg-white-color">  </a>
+<a href="#" v-hide=true class="hidden inline-block px-8 py-3 rounded-full border-2 border-solid tracking-wider font-semibold text-sm mr-2 text-white border-white bg-white-color hover:text-text-secondary-color hover:border-secondary-color hover:bg-white-color">  </a>
+<a href="#" v-hide=true class="hidden inline-block px-8 py-3 rounded-full border-2 border-solid tracking-wider font-semibold text-sm mr-2 text-white border-white bg-white-color hover:text-text-secondary-color hover:border-primary-color hover:bg-white-color"></a>
   </div>
 </template>
 

@@ -8,7 +8,7 @@
           textColor='white'
           borderColor='white'
           backgroundColor='white-color'
-          textColorHover='text-secondary-color'
+          textColorHover='white'
           borderColorHover='secondary-color'
           backgroundColorHover='white-color'
         />
