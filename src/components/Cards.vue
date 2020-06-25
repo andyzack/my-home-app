@@ -7,7 +7,9 @@
       <div class="wkh-favourite absolute right-0 top-0 m-2 text-secondary-color hover:text-primary-color text-3xl">
         <component v-bind:is="component" fill="#00A7E1" class="w-10 h-auto" @click="myFavourite" :class="{'active': isActive}" />
       </div>
-      <img class="w-full" :src="image" :alt="name" />
+      <div class=" bg-near-gray-100">
+        <img class="w-full lg:h-64 object-cover object-center" :src="image" :alt="name" />
+      </div>
       <div class="px-6 py-4">
         <div class="font-extrabold text-2xl text-primary-color leading-tight mb-2">{{name}}</div>
         <p class="text-gray-700 text-base">

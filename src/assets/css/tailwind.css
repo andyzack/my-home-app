@@ -14,6 +14,10 @@
 }
 
 /* Tailwind: Min-Height - Work in progress! */
+.min-h-62 {
+  min-height: 14rem;
+}
+
 .min-h-128 {
   min-height: 32rem;
 }
