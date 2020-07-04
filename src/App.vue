@@ -78,7 +78,7 @@ export default {
     };
   },
   created() {
-    fetch('homes.json')
+    fetch('//workhouseadvertising.com.au/test-data/endpoint.php')
       .then(response => response.json())
       .then(data => (this.homes = data));
   },
