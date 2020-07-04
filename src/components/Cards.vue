@@ -45,7 +45,7 @@
           {{frontage}}
         </span>
       </div>
-      <div class="px-6 pb-8">
+      <div class="px-6 pb-4">
         <ActionButton
           label='Enquire'
           textColor='white'
