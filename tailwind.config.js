@@ -1,5 +1,5 @@
 module.exports = {
-  purge: false,
+  purge: false, /* MANUALLY CONFIGURED PURGECSS IN POSTCSS.CONFIG */
   theme: {
     container: {
       center: true,
