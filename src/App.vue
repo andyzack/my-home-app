@@ -15,6 +15,7 @@
         <div class="flex flex-wrap justify-between items-center mb-5 mx-3">
           <div class="text-secondary-color font-bold">{{filteredHomes.length}} Packages</div>
           <div class="relative">
+            <label class="absolute text-indent-hidden">Search</label>
             <input type="text" class="bg-near-gray-100 focus:outline-none opacity-50 focus:shadow-outline border border-gray-300 rounded-full py-2 px-4 block w-full appearance-none leading-normal near-gray-700" v-model="search" placeholder="Search">
             <i class="block text-secondary-color font-normal absolute right-0 top-0 p-1 pointer-events-none">
               <IconZoom fill="#636569" class="fill-secondary-color w-8 h-auto" />

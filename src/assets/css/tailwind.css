@@ -21,3 +21,7 @@
 .min-h-128 {
   min-height: 32rem;
 }
+
+.text-indent-hidden {
+  text-indent: -100000px;
+}
