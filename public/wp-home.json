@@ -1,0 +1,896 @@
+[
+  {
+      "id": 41746,
+      "date": "2020-06-03T13:52:07",
+      "date_gmt": "2020-06-03T03:52:07",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/?page_id=41746"
+      },
+      "modified": "2020-06-09T11:27:58",
+      "modified_gmt": "2020-06-09T01:27:58",
+      "slug": "price-tags",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/price-tags/",
+      "title": {
+          "rendered": "Price Tags"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 15,
+      "featured_media": 41510,
+      "parent": 0,
+      "menu_order": 0,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/price-tags/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Price Tags - Trans Tank® International (TTi)\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/price-tags/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-06-09T01:27:58+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/05/3d-price-tags-200525-3.png\" />\n\t<meta property=\"og:image:width\" content=\"693\" />\n\t<meta property=\"og:image:height\" content=\"423\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/price-tags/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/05/3d-price-tags-200525-3.png\",\"width\":693,\"height\":423},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/price-tags/#webpage\",\"url\":\"https://dev.tti.com.au/price-tags/\",\"name\":\"Price Tags - Trans Tank\® International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/price-tags/#primaryimage\"},\"datePublished\":\"2020-06-03T03:52:07+00:00\",\"dateModified\":\"2020-06-09T01:27:58+00:00\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/price-tags/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/41746"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/15"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=41746"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 49,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/41746/revisions"
+              }
+          ],
+          "predecessor-version": [
+              {
+                  "id": 41847,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/41746/revisions/41847"
+              }
+          ],
+          "wp:featuredmedia": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media/41510"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=41746"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  },
+  {
+      "id": 41275,
+      "date": "2020-05-11T10:22:53",
+      "date_gmt": "2020-05-11T00:22:53",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/catalogues-copy/"
+      },
+      "modified": "2020-07-02T11:04:15",
+      "modified_gmt": "2020-07-02T01:04:15",
+      "slug": "promo",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/promo/",
+      "title": {
+          "rendered": "Promo Flyers"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 6,
+      "featured_media": 0,
+      "parent": 0,
+      "menu_order": 8,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"Check the latest promo and TTi products on sale with freebies. Grab your copy of your flyer today showcasing the liquid transport tanks, sprayers, fire fighting equipment, diesel transfer units as well as civil and industrial water carts.\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/promo/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Seasonal Promo\" />\n<meta property=\"og:description\" content=\"Check the latest promo and TTi products on sale with freebies. Grab your copy of your flyer today showcasing the liquid transport tanks, sprayers, fire fighting equipment, diesel transfer units as well as civil and industrial water carts.\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/promo/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-07-02T01:04:15+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/promo/#webpage\",\"url\":\"https://dev.tti.com.au/promo/\",\"name\":\"Seasonal Promo\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"datePublished\":\"2020-05-11T00:22:53+00:00\",\"dateModified\":\"2020-07-02T01:04:15+00:00\",\"description\":\"Check the latest promo and TTi products on sale with freebies. Grab your copy of your flyer today showcasing the liquid transport tanks, sprayers, fire fighting equipment, diesel transfer units as well as civil and industrial water carts.\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/promo/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/41275"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/6"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=41275"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 6,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/41275/revisions"
+              }
+          ],
+          "predecessor-version": [
+              {
+                  "id": 42331,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/41275/revisions/42331"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=41275"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  },
+  {
+      "id": 41016,
+      "date": "2020-04-23T21:07:16",
+      "date_gmt": "2020-04-23T11:07:16",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/poly-diesel-refueling-units-lp-step2-copy/"
+      },
+      "modified": "2020-04-30T18:04:23",
+      "modified_gmt": "2020-04-30T08:04:23",
+      "slug": "poly-diesel-refueling-units-lp-step3",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/poly-diesel-refueling-units-lp-step3/",
+      "title": {
+          "rendered": "Poly Diesel Refueling Units &#8211; LP (Step3)"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 6,
+      "featured_media": 0,
+      "parent": 0,
+      "menu_order": 1,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step3/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Trans Tank® International (TTi) » The Safest Tanks in Motion\" />\n<meta property=\"og:description\" content=\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step3/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-04-30T08:04:23+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step3/#webpage\",\"url\":\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step3/\",\"name\":\"Trans Tank\® International (TTi) \» The Safest Tanks in Motion\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"datePublished\":\"2020-04-23T11:07:16+00:00\",\"dateModified\":\"2020-04-30T08:04:23+00:00\",\"description\":\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step3/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/41016"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/6"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=41016"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 10,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/41016/revisions"
+              }
+          ],
+          "predecessor-version": [
+              {
+                  "id": 41089,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/41016/revisions/41089"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=41016"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  },
+  {
+      "id": 40991,
+      "date": "2020-04-23T16:27:57",
+      "date_gmt": "2020-04-23T06:27:57",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/poly-diesel-refueling-units-lp-copy/"
+      },
+      "modified": "2020-04-30T18:06:53",
+      "modified_gmt": "2020-04-30T08:06:53",
+      "slug": "poly-diesel-refueling-units-lp-step2",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/poly-diesel-refueling-units-lp-step2/",
+      "title": {
+          "rendered": "Poly Diesel Refueling Units &#8211; LP (Step2)"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 6,
+      "featured_media": 0,
+      "parent": 0,
+      "menu_order": 1,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step2/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Trans Tank® International (TTi) » The Safest Tanks in Motion\" />\n<meta property=\"og:description\" content=\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step2/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-04-30T08:06:53+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step2/#webpage\",\"url\":\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step2/\",\"name\":\"Trans Tank\® International (TTi) \» The Safest Tanks in Motion\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"datePublished\":\"2020-04-23T06:27:57+00:00\",\"dateModified\":\"2020-04-30T08:06:53+00:00\",\"description\":\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/poly-diesel-refueling-units-lp-step2/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40991"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/6"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=40991"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 23,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40991/revisions"
+              }
+          ],
+          "predecessor-version": [
+              {
+                  "id": 41090,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40991/revisions/41090"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=40991"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  },
+  {
+      "id": 40820,
+      "date": "2020-04-20T14:49:58",
+      "date_gmt": "2020-04-20T04:49:58",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/home-copy/"
+      },
+      "modified": "2020-05-05T10:43:58",
+      "modified_gmt": "2020-05-05T00:43:58",
+      "slug": "poly-diesel-refueling-units-lp",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/poly-diesel-refueling-units-lp/",
+      "title": {
+          "rendered": "Poly Diesel Refueling Units &#8211; LP (Step1)"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 6,
+      "featured_media": 0,
+      "parent": 0,
+      "menu_order": 1,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/poly-diesel-refueling-units-lp/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Trans Tank® International (TTi) » The Safest Tanks in Motion\" />\n<meta property=\"og:description\" content=\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/poly-diesel-refueling-units-lp/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-05-05T00:43:58+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/poly-diesel-refueling-units-lp/#webpage\",\"url\":\"https://dev.tti.com.au/poly-diesel-refueling-units-lp/\",\"name\":\"Trans Tank\® International (TTi) \» The Safest Tanks in Motion\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"datePublished\":\"2020-04-20T04:49:58+00:00\",\"dateModified\":\"2020-05-05T00:43:58+00:00\",\"description\":\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/poly-diesel-refueling-units-lp/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40820"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/6"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=40820"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 143,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40820/revisions"
+              }
+          ],
+          "predecessor-version": [
+              {
+                  "id": 41179,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40820/revisions/41179"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=40820"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  },
+  {
+      "id": 40319,
+      "date": "2020-04-01T10:46:12",
+      "date_gmt": "2020-03-31T23:46:12",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/?page_id=40319"
+      },
+      "modified": "2020-04-15T10:24:47",
+      "modified_gmt": "2020-04-15T00:24:47",
+      "slug": "troubleshooting-guides",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/troubleshooting-guides/",
+      "title": {
+          "rendered": "Troubleshooting Guides"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 351,
+      "featured_media": 0,
+      "parent": 0,
+      "menu_order": 6,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"We&#039;ve created a series of troubleshooting and how-to guides and videos to help our customers setup, maintain and troubleshoot their TTi products - Let us help!\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/troubleshooting-guides/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Troubleshooting Guides - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"We&#039;ve created a series of troubleshooting and how-to guides and videos to help our customers setup, maintain and troubleshoot their TTi products - Let us help!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/troubleshooting-guides/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-04-15T00:24:47+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/troubleshooting-guides/#webpage\",\"url\":\"https://dev.tti.com.au/troubleshooting-guides/\",\"name\":\"Troubleshooting Guides - Trans Tank\® International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"datePublished\":\"2020-03-31T23:46:12+00:00\",\"dateModified\":\"2020-04-15T00:24:47+00:00\",\"description\":\"We've created a series of troubleshooting and how-to guides and videos to help our customers setup, maintain and troubleshoot their TTi products - Let us help!\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/troubleshooting-guides/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40319"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/351"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=40319"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 1,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40319/revisions"
+              }
+          ],
+          "predecessor-version": [
+              {
+                  "id": 40795,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40319/revisions/40795"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=40319"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  },
+  {
+      "id": 40218,
+      "date": "2020-03-31T11:36:50",
+      "date_gmt": "2020-03-31T00:36:50",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/?page_id=40218"
+      },
+      "modified": "2020-06-02T10:44:27",
+      "modified_gmt": "2020-06-02T00:44:27",
+      "slug": "disinfectant-sprayers",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/disinfectant-sprayers/",
+      "title": {
+          "rendered": "Disinfectant LP"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 6,
+      "featured_media": 40510,
+      "parent": 0,
+      "menu_order": 1,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/disinfectant-sprayers/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Trans Tank® International (TTi) » The Safest Tanks in Motion\" />\n<meta property=\"og:description\" content=\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/disinfectant-sprayers/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-06-02T00:44:27+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/ProVent-Family-200402-2.png\" />\n\t<meta property=\"og:image:width\" content=\"600\" />\n\t<meta property=\"og:image:height\" content=\"400\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/disinfectant-sprayers/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/ProVent-Family-200402-2.png\",\"width\":600,\"height\":400},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/disinfectant-sprayers/#webpage\",\"url\":\"https://dev.tti.com.au/disinfectant-sprayers/\",\"name\":\"Trans Tank\® International (TTi) \» The Safest Tanks in Motion\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/disinfectant-sprayers/#primaryimage\"},\"datePublished\":\"2020-03-31T00:36:50+00:00\",\"dateModified\":\"2020-06-02T00:44:27+00:00\",\"description\":\"TTi offers liquid cartage solutions for farm and industrial use. Find tanks for water cartage, spray, diesel, fire protection, etc. Call 1800 816 277 now!\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/disinfectant-sprayers/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40218"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/6"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=40218"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 5,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40218/revisions"
+              }
+          ],
+          "predecessor-version": [
+              {
+                  "id": 41721,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/40218/revisions/41721"
+              }
+          ],
+          "wp:featuredmedia": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media/40510"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=40218"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  },
+  {
+      "id": 39611,
+      "date": "2020-03-20T12:03:19",
+      "date_gmt": "2020-03-20T01:03:19",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/?page_id=39611"
+      },
+      "modified": "2020-03-31T11:22:22",
+      "modified_gmt": "2020-03-31T00:22:22",
+      "slug": "disinfectant-sprayers",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/application/disinfectant-sprayers/",
+      "title": {
+          "rendered": "Disinfectant Sprayers"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 15,
+      "featured_media": 39612,
+      "parent": 17198,
+      "menu_order": 2,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"Professional sprayer used for public health, disinfection and indoor residual spraying widely use for bacterial and viral disinfectant solutions. #TTi\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/application/disinfectant-sprayers/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Disinfectant Sprayers - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"Professional sprayer used for public health, disinfection and indoor residual spraying widely use for bacterial and viral disinfectant solutions. #TTi\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/application/disinfectant-sprayers/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-03-31T00:22:22+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/03/wp-inter-disinfectant-sprayer-200320.jpg\" />\n\t<meta property=\"og:image:width\" content=\"800\" />\n\t<meta property=\"og:image:height\" content=\"450\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/application/disinfectant-sprayers/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/03/wp-inter-disinfectant-sprayer-200320.jpg\",\"width\":800,\"height\":450},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/application/disinfectant-sprayers/#webpage\",\"url\":\"https://dev.tti.com.au/application/disinfectant-sprayers/\",\"name\":\"Disinfectant Sprayers - Trans Tank\® International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/application/disinfectant-sprayers/#primaryimage\"},\"datePublished\":\"2020-03-20T01:03:19+00:00\",\"dateModified\":\"2020-03-31T00:22:22+00:00\",\"description\":\"Professional sprayer used for public health, disinfection and indoor residual spraying widely use for bacterial and viral disinfectant solutions. #TTi\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/application/disinfectant-sprayers/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/39611"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/15"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=39611"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 0,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/39611/revisions"
+              }
+          ],
+          "up": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/17198"
+              }
+          ],
+          "wp:featuredmedia": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media/39612"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=39611"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  },
+  {
+      "id": 39092,
+      "date": "2020-03-03T12:33:57",
+      "date_gmt": "2020-03-03T01:33:57",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/?page_id=39092"
+      },
+      "modified": "2020-04-30T12:27:37",
+      "modified_gmt": "2020-04-30T02:27:37",
+      "slug": "thank-you-contact",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/thank-you-contact/",
+      "title": {
+          "rendered": "Thank You"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 350,
+      "featured_media": 0,
+      "parent": 0,
+      "menu_order": 0,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/thank-you-contact/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Thank You - Trans Tank® International (TTi)\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/thank-you-contact/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-04-30T02:27:37+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/thank-you-contact/#webpage\",\"url\":\"https://dev.tti.com.au/thank-you-contact/\",\"name\":\"Thank You - Trans Tank\® International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"datePublished\":\"2020-03-03T01:33:57+00:00\",\"dateModified\":\"2020-04-30T02:27:37+00:00\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/thank-you-contact/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/39092"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/350"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=39092"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 1,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/39092/revisions"
+              }
+          ],
+          "predecessor-version": [
+              {
+                  "id": 41081,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/39092/revisions/41081"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=39092"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  },
+  {
+      "id": 39081,
+      "date": "2020-03-03T08:13:23",
+      "date_gmt": "2020-03-02T21:13:23",
+      "guid": {
+          "rendered": "https://dev.tti.com.au/?page_id=39081"
+      },
+      "modified": "2020-04-30T11:02:53",
+      "modified_gmt": "2020-04-30T01:02:53",
+      "slug": "faq",
+      "status": "publish",
+      "type": "page",
+      "link": "https://dev.tti.com.au/faq/",
+      "title": {
+          "rendered": "FAQ"
+      },
+      "content": {
+          "rendered": "",
+          "protected": false
+      },
+      "excerpt": {
+          "rendered": "",
+          "protected": false
+      },
+      "author": 15,
+      "featured_media": 39076,
+      "parent": 0,
+      "menu_order": 0,
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "template": "",
+      "meta": [],
+      "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"How We Protect Customer Information. Trans Tank International uses Secure Sockets Layer (SSL) technology for credit card transactions. This means that the ..\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/faq/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"FAQ | Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"How We Protect Customer Information. Trans Tank International uses Secure Sockets Layer (SSL) technology for credit card transactions. This means that the ..\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/faq/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-04-30T01:02:53+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/03/terms-and-conditions.png\" />\n\t<meta property=\"og:image:width\" content=\"800\" />\n\t<meta property=\"og:image:height\" content=\"450\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\® International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/faq/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/03/terms-and-conditions.png\",\"width\":800,\"height\":450},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/faq/#webpage\",\"url\":\"https://dev.tti.com.au/faq/\",\"name\":\"FAQ | Trans Tank\® International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/faq/#primaryimage\"},\"datePublished\":\"2020-03-02T21:13:23+00:00\",\"dateModified\":\"2020-04-30T01:02:53+00:00\",\"description\":\"How We Protect Customer Information. Trans Tank International uses Secure Sockets Layer (SSL) technology for credit card transactions. This means that the ..\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/faq/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/39081"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages"
+              }
+          ],
+          "about": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/types/page"
+              }
+          ],
+          "author": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/users/15"
+              }
+          ],
+          "replies": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/comments?post=39081"
+              }
+          ],
+          "version-history": [
+              {
+                  "count": 2,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/39081/revisions"
+              }
+          ],
+          "predecessor-version": [
+              {
+                  "id": 41079,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/pages/39081/revisions/41079"
+              }
+          ],
+          "wp:featuredmedia": [
+              {
+                  "embeddable": true,
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media/39076"
+              }
+          ],
+          "wp:attachment": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wp/v2/media?parent=39081"
+              }
+          ],
+          "curies": [
+              {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+              }
+          ]
+      }
+  }
+]
